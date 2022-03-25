@@ -1,4 +1,4 @@
-### Hi this is Samindra 👋
+### Hi, this is Samindra 👋
 
 - 📚 I am currently a CSE student in Brac University
 - 👩🏻‍💻 I am interested in UX/UI & Software Development 
